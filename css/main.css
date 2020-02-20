@@ -12,8 +12,8 @@ html {
 }
 
 .btn-light {
-  background-color: limegreen;
-  border-color: limegreen;
+  background-color: lightgreen;
+  border-color: lightgreen;
 }
 
 .btn:hover {
@@ -21,6 +21,6 @@ html {
   border-color: darkgreen;
 }
 
-.btn:hover {
+.btn-ghost:hover {
   background-color: transparent;
 }
